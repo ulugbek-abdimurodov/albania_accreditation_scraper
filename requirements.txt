@@ -1,0 +1,6 @@
+requests>=2.31
+certifi>=2024.2
+beautifulsoup4>=4.12
+pandas>=2.0
+openpyxl>=3.1
+truststore>=0.10.4
