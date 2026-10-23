@@ -1,8 +1,8 @@
-# DPA Albania accreditation scraper (resumable edition)
+# Albania accreditation scraper
 
 This package contains the source workbook, 124 verified PDFs downloaded from DPA record links, plus the historical 2024 Synergy-Inspect PDF supplied during this task. The updated export includes 126 accreditation records, their status lists, and download audit fields.
 
-## Windows setup and run
+## Setup and run
 
 1. Extract this folder to a writable location.
 2. Open PowerShell in the extracted `dpa_accreditation_scraper` folder.
